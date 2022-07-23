@@ -1,0 +1,3 @@
+[submodule "lachlan-coin"]
+	path = lachlan-coin
+	url = git@github.com:LachlanNewman/lachlan-coin.git
