@@ -1,4 +1,6 @@
-# Mente de deus at ferret dicite sanguine
+:include-toc:
+
+# Exported from https://github.com/LachlanNewman/sub-module-testing/blob/main/docs/other_docs/doc3.md
 
 ## Putes in quoque inops tela seu paretur
 

@@ -1,4 +1,6 @@
-# Quaeras inque fidere inpubesque voce firmatque et
+:include-toc:
+
+# Exported from https://github.com/LachlanNewman/sub-module-testing/blob/main/docs/doc2.md
 
 ## Memorabile rapit inferna segetes sorte eatque
 

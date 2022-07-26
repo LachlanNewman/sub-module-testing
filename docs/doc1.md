@@ -1,5 +1,6 @@
 :include-toc:
-# Nunc mea mecum est me satis
+
+# Exported from https://github.com/LachlanNewman/sub-module-testing/blob/main/docs/doc1.md
 
 ## Pyreneus de esse ille votique inque
 
@@ -53,5 +54,3 @@ illi est, vocibus rependatur caret. Arenti aera pares presso oscula ille poterat
 Patrios petunt femina temperat sponte, magna hic! Haec debuit **pavido voces
 desideret**, iners!
 
-
-junction -s "~728381535" -c "https://annalise-ai.atlassian.net/wiki/rest/api" -u "Lachlan.Newman@annalise.ai" -p "1BlPNweOpZIUbIPDoC5S5082" delta --content-path docs/ HEAD~1 main
