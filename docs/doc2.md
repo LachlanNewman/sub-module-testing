@@ -1,6 +1,6 @@
 :include-toc:
 
-SVG
+<image src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_317591.png&f=1&nofb=1'>
 
 # Exported from https://github.com/LachlanNewman/sub-module-testing/blob/main/docs/doc2.md
 
