@@ -1,5 +1,7 @@
 :include-toc:
 
+SVG
+
 # Exported from https://github.com/LachlanNewman/sub-module-testing/blob/main/docs/doc2.md
 
 ## Memorabile rapit inferna segetes sorte eatque
