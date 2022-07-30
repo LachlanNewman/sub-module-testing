@@ -1,6 +1,6 @@
 :include-toc:
 
-```mermaid
+```mermaid name
   graph TD;
       A-->B;
       A-->C;
