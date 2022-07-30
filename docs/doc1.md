@@ -1,5 +1,12 @@
 :include-toc:
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
 # Exported from https://github.com/LachlanNewman/sub-module-testing/blob/main/docs/doc1.md
 
 ## Pyreneus de esse ille votique inque
@@ -54,3 +61,4 @@ illi est, vocibus rependatur caret. Arenti aera pares presso oscula ille poterat
 Patrios petunt femina temperat sponte, magna hic! Haec debuit **pavido voces
 desideret**, iners!
 
+junction -s "~728381535" -c "https://annalise-ai.atlassian.net/wiki/rest/api" -u "Lachlan.Newman@annalise.ai" -p "LPDuO9LqsfavUScNIr2OA6BF" delta --content-path md/ HEAD~1 master
